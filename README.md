@@ -6,7 +6,19 @@
 - 1일 1커밋을 통해 Github의 풀밭을 가꾸는 것이 취미입니다.
 - 가끔 한강을 배경으로 달리기도 합니다.
 
+## Work Experiences
+
+- Openbase (Apr 2017 ~ Aug 2019)
+  - Network(L4/L7) engineer (F5 BIG-IP solution(LTM, APM), Alteon )
+    - 고객사 로드밸런서(L4/L7) 장비 유지보수 및 구축
+    - 제1 금융권 상주업무 수행 
+
 ## Skill Set
+
+### OS
+
+- Window
+- Linux(Ubuntu)
 
 ### DEV
 
@@ -18,7 +30,7 @@
 
 ### Data Science
 
-- Pandas, Numpy, Tensorflow, Keras
+- Pandas, Numpy, Tensorflow(Keras)
 
 ### Cloud
 
@@ -28,15 +40,23 @@
 
 - Mysql
 
+### Network
+
+- TCPDUMP
+- Wireshark
+- F5 BIG-IP LTM, APM
+- Radware Alteon L4
+
 ### ETC
 
-- Git, Slack, Ubuntu
+- Git, Slack
+- Shell
 
-  
 
-## Work Experiences
 
-- Openbase (Apr 2017 ~ Aug 2019)
-  - Network engineer (F5 BIG-IP solution(LTM, APM), Alteon )
-    - 고객사 로드밸런서(L4/L7) 장비 유지보수 및 구축
-    - 제1 금융권 상주업무 수행 
+## Project
+
+1. [Analysis_and_Prediction_of_Crime_Correlation_by_Administrative_District_in_Seoul_using_Public_Data](https://github.com/madfalc0n/Image-analysis-and-develope/tree/master/project/1.Analysis_and_Prediction_of_Crime_Correlation_by_Administrative_District_in_Seoul_using_Public_Data)
+2. [Create_a_chatbot_with_KaKao Open_Builder](https://github.com/madfalc0n/Image-analysis-and-develope/tree/master/project//2.Create_a_chatbot_with_Open_Builder)
+3. [Detection_and_notification_system_service_according_to_emergencies](https://github.com/madfalc0n/Image-analysis-and-develope/tree/master/project/3.Detection_and_notification_system_service_according_to_emergencies)
+4. [Detection Prostate Cancer System](https://github.com/madfalc0n/Image-analysis-and-develope/blob/master/project/4.Detection_Prostate_Cancer_system)
