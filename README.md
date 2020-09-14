@@ -54,9 +54,9 @@
 
 
 
-## Project
+## Project List
 
-1. [Analysis_and_Prediction_of_Crime_Correlation_by_Administrative_District_in_Seoul_using_Public_Data](https://github.com/madfalc0n/Image-analysis-and-develope/tree/master/project/1.Analysis_and_Prediction_of_Crime_Correlation_by_Administrative_District_in_Seoul_using_Public_Data)
-2. [Create_a_chatbot_with_KaKao Open_Builder](https://github.com/madfalc0n/Image-analysis-and-develope/tree/master/project//2.Create_a_chatbot_with_Open_Builder)
-3. [Detection_and_notification_system_service_according_to_emergencies](https://github.com/madfalc0n/Image-analysis-and-develope/tree/master/project/3.Detection_and_notification_system_service_according_to_emergencies)
+1. [Analysis and Prediction of Crime Correlation by Administrative District in Seoul using Public Data](https://github.com/madfalc0n/Image-analysis-and-develope/tree/master/project/1.Analysis_and_Prediction_of_Crime_Correlation_by_Administrative_District_in_Seoul_using_Public_Data)
+2. [Create a chatbot with KaKao Open_Builder](https://github.com/madfalc0n/Image-analysis-and-develope/tree/master/project//2.Create_a_chatbot_with_Open_Builder)
+3. [Detection and notification system service according to emergencies](https://github.com/madfalc0n/Image-analysis-and-develope/tree/master/project/3.Detection_and_notification_system_service_according_to_emergencies)
 4. [Detection Prostate Cancer System](https://github.com/madfalc0n/Image-analysis-and-develope/blob/master/project/4.Detection_Prostate_Cancer_system)
